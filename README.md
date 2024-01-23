@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Taku from Zimbabwe and I am a Chemical Engineer, specialising in the mining industry. I am looking to move into Data Analytics and Science, and am extremely passionate about harnessing these skills to provide solutions for basic human struggles the African continent is facing on a day-to-day basis.
+I'm Taku from Zimbabwe and I am a Chemical Engineer, with over 4 years in the mining industry. I am looking to move into Data Analytics and Science, and am extremely passionate about harnessing these skills to provide solutions for basic human struggles the African continent is facing on a day-to-day basis.
 <!--
 **Teekaynium/Teekaynium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
