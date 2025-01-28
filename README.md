@@ -35,12 +35,16 @@
     - Hypothesis Testing in Python
 
 <h2>📺 Education</h2>
+
+- <b>Masters in Quantitative Finance............................Jan 2025 - present</b>
+
+  - University of Johannesburg
+
 - <b>Masters in Financial Engineering..........................July 2024 - present</b>
 
-  - World Quant University
+  - WorldQuant University
 
-
-- <b>BSc Chemical Engineering..................................Feb 2016 - Dec 2019</b>
+- <b>BSc, Chemical Engineering.................................Feb 2016 - Dec 2019</b>
 
    - University of Cape Town 
 
