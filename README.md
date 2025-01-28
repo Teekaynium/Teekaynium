@@ -3,7 +3,7 @@
 <h2>👨‍💻 Financial Engineering Projects:</h2>
 
 - <b>Time Series Predictive Model (ARIMA Securities Modelling)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Using ARIMA models to predict price future price of Forex pairs and Commodities](https://github.com/Teekaynium/Time-Series-Prediction)
 - <b>Principal Component Analysis (Analysis of Major Securities in the USA)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>USA Bond Market Analysis</b>
