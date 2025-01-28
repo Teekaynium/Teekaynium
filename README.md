@@ -1,7 +1,58 @@
-### Hi there 👋, Teekaynium
-#### I am a Chemical Engineer and Python Data Analyst 
-I'm Taku from Zimbabwe and I am a Chemical Engineer, with over 4 years in the mining industry. I am looking to move into Data Analytics and Science, and am extremely passionate about harnessing these skills to provide solutions for the basic human struggles that the African continent is facing on a day-to-day basis.
+<h1>Hi, I'm Taku! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Finanical Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Project Engineer</a></h1>
 
-Skills: Python/ Pandas/ Scikit-Learn/ Numpy/ 
+<h2>👨‍💻 Financial Engineering Projects:</h2>
 
-- 🔭 I’m currently working on this page. 
+- <b>Time Series Predictive Model (ARIMA Securities Modelling)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Principal Component Analysis (Analysis of Major Securities in the USA)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>USA Bond Market Analysis</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>USA Housing Market Analysis</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Zimbabwe Stock Exchange Analysis</b>
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>📺 Certificates</h2>
+- <b>DataCamp Certificates</b>
+
+  - DataCamp Data Analyst with Python Track (The track 9 courses, 2 skills     assessments and 5 projects)
+  
+    - Intermediate Python
+    - Data Manipulation with pandas
+    - Python Data Science Toolbox (Part 1)
+    - Joining Data with pandas
+    - Introduction to Statistics in Python
+    - Introduction to Data Visualization with Seaborn
+    - Exploratory Data Analysis in Python
+    - Sampling in Python
+    - Hypothesis Testing in Python
+
+<h2>📺 Education</h2>
+- <b>Masters in Financial Engineering..........................July 2024 - present</b>
+
+  - World Quant University
+
+
+- <b>BSc Chemical Engineering..................................Feb 2016 - Dec 2019</b>
+
+   - University of Cape Town 
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
