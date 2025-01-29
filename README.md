@@ -19,7 +19,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Certificates</h2>
+<h2>📜 Certificates</h2>
 - <b>DataCamp Certificates</b>
 
   - DataCamp Data Analyst with Python Track (The track 9 courses, 2 skills     assessments and 5 projects)
@@ -34,7 +34,7 @@
     - Sampling in Python
     - Hypothesis Testing in Python
 
-<h2>📺 Education</h2>
+<h2>👨‍🎓 Education</h2>
 
 - <b>Masters in Quantitative Finance............................Jan 2025 - present</b>
 
@@ -51,9 +51,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]: https://linkedin.com/in/joshmadakor
+- [LinkedIn](https://www.linkedin.com/in/takudzwa-ngwenya-100166138/)
