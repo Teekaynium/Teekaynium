@@ -7,10 +7,7 @@
 - <b>Principal Component Analysis (Analysis of Major Securities in the USA)</b>
   - [Apple Stock PCA](https://github.com/Teekaynium/Principal-Component-Analysis.git) 
 - <b>USA Bond Market Analysis</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Simple Analysis of USA Bond Market, using very simple data analysis](https://github.com/Teekaynium/US-Bond-Market-Analysis.git)
 - <b>USA Housing Market Analysis</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Zimbabwe Stock Exchange Analysis</b>
