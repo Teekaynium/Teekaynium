@@ -11,10 +11,7 @@
 - <b>USA Housing Market Analysis</b>
   - [Data Analysis of Factor Affecting the US Housing Market](https://github.com/Teekaynium/US-Housing-Market-Analysis.git)
 - <b>Zimbabwe Stock Exchange Analysis</b>
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [This is a colaborative effort to extract Zimbabwe Stock Exchange daily data and create a continuous database](https://github.com/Teekaynium/ZimStock-Project.git)
 
 <h2>📜 Certificates</h2>
 - <b>DataCamp Certificates</b>
