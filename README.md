@@ -9,7 +9,7 @@
 - <b>USA Bond Market Analysis</b>
   - [Simple Analysis of USA Bond Market, using very simple data analysis](https://github.com/Teekaynium/US-Bond-Market-Analysis.git)
 - <b>USA Housing Market Analysis</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Data Analysis of Factor Affecting the US Housing Market](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Zimbabwe Stock Exchange Analysis</b>
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
