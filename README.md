@@ -4,12 +4,7 @@
 
 - <b>Time Series Predictive Model (ARIMA Securities Modelling)</b>
   - [Using ARIMA models to predict price future price of Forex pairs and Commodities](https://github.com/Teekaynium/Time-Series-Prediction)
-- <b>Principal Component Analysis (Analysis of Major Securities in the USA)</b>
-  - [Apple Stock PCA](https://github.com/Teekaynium/Principal-Component-Analysis.git) 
-- <b>USA Bond Market Analysis</b>
-  - [Simple Analysis of USA Bond Market, using very simple data analysis](https://github.com/Teekaynium/US-Bond-Market-Analysis.git)
-- <b>USA Housing Market Analysis</b>
-  - [Data Analysis of Factor Affecting the US Housing Market](https://github.com/Teekaynium/US-Housing-Market-Analysis.git)
+
 - <b>Zimbabwe Stock Exchange Analysis</b>
   - [This is a colaborative effort to extract Zimbabwe Stock Exchange daily data and create a continuous database](https://github.com/Teekaynium/ZimStock-Project.git)
 
