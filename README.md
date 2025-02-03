@@ -1,4 +1,4 @@
-<h1>Hi, I'm Taku! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Finanical Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Project Engineer</a></h1>
+<h1>Hi, I'm TK! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Finanical Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Project Engineer</a></h1>
 
 <h2>👨‍💻 Financial Engineering Projects:</h2>
 
