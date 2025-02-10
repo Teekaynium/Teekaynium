@@ -9,7 +9,7 @@
   - [This is a colaborative effort to extract Zimbabwe Stock Exchange daily data and create a continuous database](https://github.com/Teekaynium/ZimStock-Project.git)
 
 - <b>Zimbabwe Stock Exchange Dashboard</b>
-  - [This dashboard offers a view of the individual stocks on Zim Stock exchange, it uses data extracted in the Zimbabwe Stock Exchange Data Extraction project above](https://github.com/Teekaynium/ZimStock-Project.git)
+  - [This dashboard offers a view of the individual stocks on Zim Stock exchange, it uses data extracted in the Zimbabwe Stock Exchange Data Extraction project above](https://github.com/Teekaynium/Zim-Stock-Dashboard.git)
 
 <h2>📜 Certificates</h2>
 - <b>DataCamp Certificates</b>
